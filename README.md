@@ -17,5 +17,5 @@ Installation instructions:
 8. Setup your profile and click Launch
 
 
-
+If you get an error mentioning something is missing, make sure you have the latest files from the Mods folder.
 
