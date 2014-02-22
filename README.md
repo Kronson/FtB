@@ -7,14 +7,15 @@ Server IP: 108.166.181.42
 
 Installation instructions:
 
-Grab the Feed the Beast launcher from here: http://www.creeperrepo.net/direct/FTB2/cbf28412ef3ab36443e551e59b42b2eb/launcher%5EFTB_Launcher.exe
+1. Grab the Feed the Beast launcher from here: http://www.creeperrepo.net/direct/FTB2/cbf28412ef3ab36443e551e59b42b2eb/launcher%5EFTB_Launcher.exe
+2. Grab all files from the Mods section. 
+3. In the FtB launcher select the Monster pack on the left
+4. In the drop-down that says "Recommended", select version 1.0.10
+5. Click "Edit Mod Pack"
+6. In the "Disabled Mods" section, select SpecialMobs and click enable
+7. Click the "Add Mod" button, and add all files that you downloaded in step 2
+8. Setup your profile and click Launch
 
-Select the Monster pack on the left
 
-In the drop-down that says "Recommended", select version 1.0.10
-
-Click "Edit Mod Pack"
-
-In the "Disabled Mods" section, select SpecialMobs and click enable
 
 
