@@ -12,7 +12,7 @@ Installation instructions:
 3. In the FtB launcher select the Monster pack on the left
 4. In the drop-down that says "Recommended", select version 1.0.10
 5. Click "Edit Mod Pack"
-6. In the "Disabled Mods" section, select SpecialMobs and click enable
+6. In the "Disabled Mods" section, select SpecialMobs and Blood Magic and click enable
 7. Click the "Add Mod" button, and add all files that you downloaded in step 2
 8. Setup your profile and click Launch
 
