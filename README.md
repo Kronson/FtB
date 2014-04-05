@@ -12,7 +12,7 @@ Installation instructions:
 3. In the FtB launcher select the Monster pack on the left
 4. In the drop-down that says "Recommended", select version 1.1.1
 5. Click "Edit Mod Pack"
-6. In the "Disabled Mods" section, select SpecialMobs, Blood Magic, and LyncanitesMobsComplete and click enable
+6. In the "Disabled Mods" section, select SpecialMobs, Blood Magic,ThaumicTinkerKAMI, and LyncanitesMobsComplete and click enable
 7. In the "Enabled Mods" section, select CraftHeraldry, DyeTrees, Geostrata, Mariculture, PortalGuns, StevesCarts, and Sync and click Disable
 8. Click the "Add Mod" button, and add all files that you downloaded in step 2
 9. Setup your profile and click Launch
