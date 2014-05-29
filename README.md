@@ -11,7 +11,7 @@ Installation instructions:
 2. Grab the mods file, and unzip it. https://github.com/Kronson/FtB/archive/master.zip
 3. In the FtB launcher select the Monster pack on the left
 4. In the drop-down that says "Recommended", select version 1.1.1.  If it complains that it wants to update, click no.
-5. Copy the contents of the mods file(folder labeled Monster) into the install folder for the FTB Launcher.  If there is folder already there, rename or delete it.
+5. Copy the Monster folder from the unzipped file you downloaded into the install folder for the FTB Launcher.  If there is a Monster folder already there, rename or delete it.
 5. Setup your profile and click Launch
 
 
